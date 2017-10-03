@@ -6,5 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-"Keep your face always toward sunshine - and shadows will fall behind you" -Walt Whitman
+>"Keep your face always toward sunshine - and shadows will fall behind you" -Walt Whitman
+
 https://www.brainyquote.com/quotes/topics/topic_inspirational.html
